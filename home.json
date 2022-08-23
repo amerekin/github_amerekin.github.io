@@ -1,0 +1,15 @@
+{
+    "name": "Alexander Merekin",
+    "phone": "+79166407012",
+    "mail": "alex.merekin@gmail.com",
+
+    "bio": "MY BIO",
+    "fun": "FUN STATEMENT",
+
+    "github": "https://github.com/amerekin/",
+    "linkedin": "http://linkedin.com/in/amerekin/",
+
+    "aboutme": {
+        "para1": "This is Paragraph 1",
+        "para2": "This is Paragraph 2"
+    }
